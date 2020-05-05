@@ -1,0 +1,31 @@
+﻿  Duszek.cpp
+  Gra.cpp
+C:\Users\user\Desktop\PACMAN\Pacman\Gra.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\Desktop\PACMAN\Pacman\Gra.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  graf.cpp
+  Kropka.cpp
+  main.cpp
+C:\Users\user\Desktop\PACMAN\Pacman\Gra.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\Desktop\PACMAN\Pacman\Gra.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\Desktop\PACMAN\Pacman\main.cpp(11,14): warning C4101: 'b': unreferenced local variable
+  Menu.cpp
+C:\Users\user\Desktop\PACMAN\Pacman\Gra.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\Desktop\PACMAN\Pacman\Gra.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Pacman.cpp
+  Poziom.cpp
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(641,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(641,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(651,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(651,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(745,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(745,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(755,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(755,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(767,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(767,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(776,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\PACMAN\Pacman\Poziom.cpp(776,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  wierzcholek.cpp
+  Wyjscie.cpp
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\user\Desktop\PACMAN\x64\Debug\Pacman.exe
